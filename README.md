@@ -77,9 +77,10 @@
 
 ## 📈 Contributions :
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Contribution"/>
-</p>
+<div align="center">
+  
+  ![snake gif](https://github.com/vishalrana45/vishalrana45/blob/output/github-snake-dark.svg)
+</div>
 
 <div align="center">
 
