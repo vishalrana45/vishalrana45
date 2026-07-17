@@ -9,7 +9,7 @@
 
 -  B.Tech CSE Student specializing in **Artificial Intelligence & Machine Learning**
 -  Passionate about AI, Machine Learning, and Software Development
--  Currently learning **Data Structures & Algorithms, SQL, and Python Libraries**     
+-  Currently learning **Data Structures & Algorithms, and Python Libraries**     
 -  I enjoy building practical projects that solve real-world problems
 -  Always exploring new technologies and improving my coding skills
 
@@ -39,18 +39,24 @@
 ## 💻 Programming Languages :
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="38" height="38"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="38" height="38"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" height="38"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/sql.png" width="38" height="38"/>
+</p>
+
+## 🗄️ Databases :
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="38" height="38"/>
 </p>
 
 ## 🛠️ Tools :
 
-
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="38" height="38"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="38" height="38"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="38" height="38"/>
 </p>
 
 ## 📚 Top Languages :
