@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=%F0%9F%91%8B%20Hi%2C%20I%27m%20Vishal%20Rana&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Aspiring%20AI%2FML%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="700"/>
-</p>
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/0f8e07d3-9769-4de4-9880-486e82530145" />
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=vishalrana45">
