@@ -47,7 +47,8 @@
 ## 📦 Libraries :
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="38" height="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="38" height="38"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="38" height="38"/>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 🗄️ Databases :
